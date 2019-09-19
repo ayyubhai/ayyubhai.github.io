@@ -7,13 +7,13 @@ main {
     background-size: cover;
     -o-background-size: cover;
     height: 100%;
-    color: #b6d9bf;
+    color: #9923d9;
   }
 
 .icons-social a {
-	color: #b6d9bf;
+	color: #9923d9;
 }
 
 .icons-social a svg path{
-	fill: #b6d9bf;
+	fill: #9923d9;
 }
